@@ -1,2 +1,3 @@
-# fichiers
-An easy solution for file sharing
+# Fichiers
+
+![Fichiers Icon](dist/fichiers-icon.png)
