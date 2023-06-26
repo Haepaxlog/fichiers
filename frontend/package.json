@@ -13,11 +13,14 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "format:fix": "prettier --write . --no-semi",
+    "format": "prettier --check . --no-semi"
   },
   "devDependencies": {
     "@types/node": "20.3.1",
     "@types/react": "18.2.14",
+    "prettier": "^2.8.8",
     "typescript": "5.1.3"
   }
 }
